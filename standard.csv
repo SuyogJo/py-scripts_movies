@@ -1,0 +1,31 @@
+Type,Active,Name,Imdb id,Movie Tier,Production Cost,Rank,Price
+Movie,TRUE,Marty Supreme,tt32916440,Mainstream,50000000,,50000
+Director,TRUE,Josh Safdie,nm1343394,,,,15000
+Actor,TRUE,Timothée Chalamet,nm3154303,,,1,15000
+Actor,TRUE,Larry 'Ratso' Sloman,nm0806146,,,2,15000
+Actor,TRUE,Mariann Tepedino,nm2438208,,,3,15000
+Actor,TRUE,Odessa A'zion,nm5570560,,,4,15000
+Actor,TRUE,Ralph Colucci,nm8641311,,,5,15000
+Actor,TRUE,Devorah Shubowitz,nm2902131,,,6,10000
+Actor,TRUE,Tyler the Creator,nm4360094,,,7,10000
+Actor,TRUE,George Gervin,nm2310336,,,8,10000
+Actor,TRUE,Luke Manley,nm17286128,,,9,10000
+Actor,TRUE,Marinel Tinnirello,nm17903061,,,10,10000
+Actor,TRUE,Fran Drescher,nm0000376,,,11,5000
+Actor,TRUE,Sandra Bernhard,nm0000928,,,12,5000
+Actor,TRUE,Emory Cohen,nm1710309,,,13,5000
+Actor,TRUE,John Catsimatidis,nm17503153,,,14,5000
+Actor,TRUE,Géza Röhrig,nm2764022,,,15,5000
+,,,,,,,
+Movie,TRUE,No Other Choice,tt1527793,Mainstream,50000000,,50000
+Director,TRUE,Park Chan-wook,nm0661791,,,,15000
+Actor,TRUE,Lee Byung-hun,nm0496932,,,1,15000
+Actor,TRUE,Son Ye-jin,nm1162030,,,2,15000
+Actor,TRUE,Park Hee-soon,nm1775551,,,3,15000
+Actor,TRUE,Lee Sung-min,nm1520129,,,4,15000
+Actor,TRUE,Yeom Hye-ran,nm9470536,,,5,15000
+Actor,TRUE,Cha Seung-won,nm0149226,,,6,10000
+Actor,TRUE,Oh Dal-su,nm1367681,,,7,10000
+Actor,TRUE,Woo Seung Kim,nm17849172,,,8,10000
+Actor,TRUE,So Yul Choi,nm17849171,,,9,10000
+Actor,TRUE,Kim Hae-sook,nm1390122,,,10,10000
